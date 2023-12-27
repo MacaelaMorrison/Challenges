@@ -1,0 +1,17 @@
+*.suo
+*.VC.db
+*.ipch
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.exe
+*.exe.recipe
+*.iobj
+*.ipdb
+*.log
+*.pdb
+*.tlog
+*.lastbuildstate
+*.obj
+*.FileListAbsolute.txt
